@@ -4,5 +4,6 @@
 # css platforma
 # danas sam radio u :
 git-u
-visual studiu
+visual studiu  i
 slack-u
+# Danas cu raditi ono sta mi darija dadne
