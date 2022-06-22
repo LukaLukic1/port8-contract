@@ -7,3 +7,4 @@ git-u
 visual studiu  i
 slack-u
 # Danas cu raditi ono sta mi darija dadne
+# lg monitori 
